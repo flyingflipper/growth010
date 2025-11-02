@@ -1,0 +1,367 @@
+[
+  {
+    "skill": "Communication Framing & Intent Clarity",
+    "category": "Communication & Feedback",
+    "level": "Foundational",
+    "prerequisites": []
+  },
+  {
+    "skill": "Communication Style Awareness",
+    "category": "Communication & Feedback",
+    "level": "Foundational",
+    "prerequisites": []
+  },
+  {
+    "skill": "Feedback Delivery",
+    "category": "Communication & Feedback",
+    "level": "Bridge",
+    "prerequisites": [
+      "Communication Framing & Intent Clarity"
+    ]
+  },
+  {
+    "skill": "Stakeholder Communication",
+    "category": "Communication & Feedback",
+    "level": "Bridge",
+    "prerequisites": [
+      "Communication Style Awareness"
+    ]
+  },
+  {
+    "skill": "Difficult Conversations",
+    "category": "Communication & Feedback",
+    "level": "Advanced",
+    "prerequisites": [
+      "Feedback Delivery",
+      "Empathy in Action",
+      "Emotional Regulation"
+    ]
+  },
+  {
+    "skill": "Strategic Communication",
+    "category": "Communication & Feedback",
+    "level": "Advanced",
+    "prerequisites": [
+      "Stakeholder Communication",
+      "Communication Framing & Intent Clarity"
+    ]
+  },
+  {
+    "skill": "Empathy in Action",
+    "category": "Relational & Social Intelligence",
+    "level": "Foundational",
+    "prerequisites": []
+  },
+  {
+    "skill": "Internal Networking",
+    "category": "Relational & Social Intelligence",
+    "level": "Foundational",
+    "prerequisites": []
+  },
+  {
+    "skill": "Peer Collaboration & Leadership",
+    "category": "Relational & Social Intelligence",
+    "level": "Bridge",
+    "prerequisites": [
+      "Empathy in Action"
+    ]
+  },
+  {
+    "skill": "Conflict Navigation & Resolution",
+    "category": "Relational & Social Intelligence",
+    "level": "Bridge",
+    "prerequisites": [
+      "Peer Collaboration & Leadership"
+    ]
+  },
+  {
+    "skill": "Psychological Safety Promotion",
+    "category": "Relational & Social Intelligence",
+    "level": "Advanced",
+    "prerequisites": [
+      "Empathy in Action",
+      "Conflict Navigation & Resolution"
+    ]
+  },
+  {
+    "skill": "Collaborative Leadership",
+    "category": "Influence & Leadership",
+    "level": "Foundational",
+    "prerequisites": []
+  },
+  {
+    "skill": "Decision Facilitation",
+    "category": "Influence & Leadership",
+    "level": "Foundational",
+    "prerequisites": []
+  },
+  {
+    "skill": "Influence Without Authority",
+    "category": "Influence & Leadership",
+    "level": "Bridge",
+    "prerequisites": [
+      "Collaborative Leadership"
+    ]
+  },
+  {
+    "skill": "Vision Communication",
+    "category": "Influence & Leadership",
+    "level": "Bridge",
+    "prerequisites": [
+      "Strategic Communication"
+    ]
+  },
+  {
+    "skill": "Political Acumen",
+    "category": "Influence & Leadership",
+    "level": "Advanced",
+    "prerequisites": [
+      "Influence Without Authority"
+    ]
+  },
+  {
+    "skill": "Strategic Presence",
+    "category": "Influence & Leadership",
+    "level": "Advanced",
+    "prerequisites": [
+      "Strategic Communication",
+      "Political Acumen",
+      "Emotional Regulation",
+      "Systems Thinking"
+    ]
+  },
+  {
+    "skill": "Critical Thinking",
+    "category": "Analytical Thinking & Strategy",
+    "level": "Foundational",
+    "prerequisites": []
+  },
+  {
+    "skill": "Data-Driven Decision Making",
+    "category": "Analytical Thinking & Strategy",
+    "level": "Foundational",
+    "prerequisites": []
+  },
+  {
+    "skill": "Systems Thinking",
+    "category": "Analytical Thinking & Strategy",
+    "level": "Bridge",
+    "prerequisites": [
+      "Critical Thinking"
+    ]
+  },
+  {
+    "skill": "Strategic Planning",
+    "category": "Analytical Thinking & Strategy",
+    "level": "Advanced",
+    "prerequisites": [
+      "Systems Thinking",
+      "Data-Driven Decision Making"
+    ]
+  },
+  {
+    "skill": "Meeting Facilitation & Management",
+    "category": "Execution & Process Agility",
+    "level": "Foundational",
+    "prerequisites": []
+  },
+  {
+    "skill": "Initiative Ownership",
+    "category": "Execution & Process Agility",
+    "level": "Foundational",
+    "prerequisites": []
+  },
+  {
+    "skill": "Agile Practices & Rituals",
+    "category": "Execution & Process Agility",
+    "level": "Bridge",
+    "prerequisites": [
+      "Initiative Ownership"
+    ]
+  },
+  {
+    "skill": "Strategic Compromise",
+    "category": "Execution & Process Agility",
+    "level": "Advanced",
+    "prerequisites": [
+      "Agile Practices & Rituals",
+      "Execution Rigor"
+    ]
+  },
+  {
+    "skill": "Execution Rigor",
+    "category": "Execution & Process Agility",
+    "level": "Bridge",
+    "prerequisites": [
+      "Meeting Facilitation & Management"
+    ]
+  },
+  {
+    "skill": "Growth Mindset & Self-Awareness",
+    "category": "Self-Mastery & Personal Development",
+    "level": "Foundational",
+    "prerequisites": []
+  },
+  {
+    "skill": "Time & Energy Management",
+    "category": "Self-Mastery & Personal Development",
+    "level": "Foundational",
+    "prerequisites": []
+  },
+  {
+    "skill": "Self-Directed Learning",
+    "category": "Self-Mastery & Personal Development",
+    "level": "Bridge",
+    "prerequisites": [
+      "Growth Mindset & Self-Awareness"
+    ]
+  },
+  {
+    "skill": "Emotional Regulation",
+    "category": "Self-Mastery & Personal Development",
+    "level": "Bridge",
+    "prerequisites": [
+      "Growth Mindset & Self-Awareness"
+    ]
+  },
+  {
+    "skill": "Career Advocacy & Strategy",
+    "category": "Self-Mastery & Personal Development",
+    "level": "Advanced",
+    "prerequisites": [
+      "Professional Assertiveness",
+      "Opportunity Recognition"
+    ]
+  },
+  {
+    "skill": "Professional Assertiveness",
+    "category": "Self-Mastery & Personal Development",
+    "level": "Bridge",
+    "prerequisites": [
+      "Self-Directed Learning"
+    ]
+  },
+  {
+    "skill": "Opportunity Recognition",
+    "category": "Self-Mastery & Personal Development",
+    "level": "Bridge",
+    "prerequisites": [
+      "Time & Energy Management"
+    ]
+  },
+  {
+    "skill": "Creative Thinking & Idea Generation",
+    "category": "Innovation & Creative Thinking",
+    "level": "Foundational",
+    "prerequisites": []
+  },
+  {
+    "skill": "Pattern Recognition",
+    "category": "Innovation & Creative Thinking",
+    "level": "Foundational",
+    "prerequisites": []
+  },
+  {
+    "skill": "Design Thinking",
+    "category": "Innovation & Creative Thinking",
+    "level": "Bridge",
+    "prerequisites": [
+      "Creative Thinking & Idea Generation"
+    ]
+  },
+  {
+    "skill": "Innovation Process & Culture",
+    "category": "Innovation & Creative Thinking",
+    "level": "Advanced",
+    "prerequisites": [
+      "Design Thinking",
+      "Psychological Safety Promotion",
+      "Opportunity Recognition"
+    ]
+  },
+  {
+    "skill": "Digital Literacy",
+    "category": "Digital Dexterity & Tech Fluency",
+    "level": "Foundational",
+    "prerequisites": []
+  },
+  {
+    "skill": "Tech Curiosity & Exploration",
+    "category": "Digital Dexterity & Tech Fluency",
+    "level": "Foundational",
+    "prerequisites": []
+  },
+  {
+    "skill": "Data Comfort",
+    "category": "Digital Dexterity & Tech Fluency",
+    "level": "Bridge",
+    "prerequisites": [
+      "Digital Literacy"
+    ]
+  },
+  {
+    "skill": "Responsible Use of Tech",
+    "category": "Digital Dexterity & Tech Fluency",
+    "level": "Advanced",
+    "prerequisites": [
+      "Critical Thinking",
+      "Inclusion Practices in Team Settings",
+      "Self-Directed Learning"
+    ]
+  },
+  {
+    "skill": "Cross-Cultural Communication",
+    "category": "Cultural Fluency & Inclusion",
+    "level": "Foundational",
+    "prerequisites": []
+  },
+  {
+    "skill": "Inclusion Practices in Team Settings",
+    "category": "Cultural Fluency & Inclusion",
+    "level": "Bridge",
+    "prerequisites": [
+      "Cross-Cultural Communication"
+    ]
+  },
+  {
+    "skill": "Psychological Inclusion",
+    "category": "Cultural Fluency & Inclusion",
+    "level": "Advanced",
+    "prerequisites": [
+      "Inclusion Practices in Team Settings"
+    ]
+  },
+  {
+    "skill": "Organizational Savvy",
+    "category": "Organizational Navigation & Career Capital",
+    "level": "Foundational",
+    "prerequisites": []
+  },
+  {
+    "skill": "Reputation & Visibility Building",
+    "category": "Organizational Navigation & Career Capital",
+    "level": "Bridge",
+    "prerequisites": [
+      "Organizational Savvy"
+    ]
+  },
+  {
+    "skill": "Executive Alignment & Calibration",
+    "category": "Organizational Navigation & Career Capital",
+    "level": "Bridge",
+    "prerequisites": [
+      "Organizational Savvy"
+    ]
+  },
+  {
+    "skill": "Sponsorship",
+    "category": "Organizational Navigation & Career Capital",
+    "level": "Advanced",
+    "prerequisites": [
+      "Internal Networking",
+      "Reputation & Visibility Building",
+      "Strategic Presence",
+      "Career Advocacy & Strategy"
+    ]
+  }
+]
